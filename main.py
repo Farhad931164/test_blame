@@ -2,6 +2,9 @@ import os
 import pickle
 import Cv8
 
+def another_bad_func():
+   print("ANOTHER bad bad")
+
 def good_func():
    print("Its a Good func")
 
