@@ -6,7 +6,7 @@ def another_bad_func():
    print("ANOTHER bad bad")
 
 def good_func():
-   print("Its a Good func")
+   print("It is a Good func")
 
 
 def bad_func():
